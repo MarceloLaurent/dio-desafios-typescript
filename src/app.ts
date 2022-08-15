@@ -1,0 +1,1 @@
+console.log(`O código do ${employee.name} é ${employee.code}.`);
